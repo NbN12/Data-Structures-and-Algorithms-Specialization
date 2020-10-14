@@ -28,8 +28,8 @@
     2. [Majority Element](./Algorithm%20ToolBox/week4_divide_and_conquer/2_majority_element/)
     3. [Improing Quick Sort](./Algorithm%20ToolBox/week4_divide_and_conquer/3_improving_quicksort/)
     4. [Number of Inversions](./Algorithm%20ToolBox/week4_divide_and_conquer/4_number_of_inversions/)
-    5. [Organizing a Lottery](./Algorithm%20ToolBox/week4_divide_and_conquer/5_organizing_a_lottery/)
-    6. [Closest Points](./Algorithm%20ToolBox/week4_divide_and_conquer/6_closest_points/)
+    5. ~[Organizing a Lottery](./Algorithm%20ToolBox/week4_divide_and_conquer/5_organizing_a_lottery/)~
+    6. ~[Closest Points](./Algorithm%20ToolBox/week4_divide_and_conquer/6_closest_points/)~
   - _Week 5: Dynamic Programming Part 1_
     1. [Money Change Again](./Algorithm%20ToolBox/week5_dynamic_programming1/1_money_change_again/)
     2. [Primitive Calculator](./Algorithm%20ToolBox/week5_dynamic_programming1/2_primitive_calculator/)
@@ -38,5 +38,5 @@
     5. [Longest common subsequence of three sequences](./Algorithm%20ToolBox/week5_dynamic_programming1/5_longest_common_subsequence_of_three_sequences/)
   - _Week 6: Dynamic Programming Part 2_
     1. [Maximum Amount of Gold](./Algorithm%20ToolBox/week6_dynamic_programming2/1_maximum_amount_of_gold/)
-    2. [Partitioning Souvenirs](./Algorithm%20ToolBox/week6_dynamic_programming2/2_partitioning_souvenirs/)
+    2. ~[Partitioning Souvenirs](./Algorithm%20ToolBox/week6_dynamic_programming2/2_partitioning_souvenirs/)~
     3. [Maximum value of an arithmetic expression](./Algorithm%20ToolBox/week6_dynamic_programming2/3_maximum_value_of_an_arithmetic_expression/)
